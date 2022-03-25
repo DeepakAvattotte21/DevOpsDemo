@@ -1,0 +1,16 @@
+{
+  "username": "test-hmidwvtag1dh@example.com",
+  "accessToken": "dabfa826a3cf387de47e5ee7ec73ba83ecbfcad8770c61c43917b33b7d8beadafe738042ffbb034d53a54216cedaa984715debb9e8fc84cd685fdb6e27afc1c6ce2fe7a1716ce7f3689dfe63f6d2c7f7683b2422f715e24ec73ddc3a6b58b66fd0d49d32b8d28f0d5a5395acb55566e9bb05a2b0070d:ec3883b0b8f6b94120029786785cf62e",
+  "instanceUrl": "https://efficiency-fun-889-dev-ed.cs6.my.salesforce.com",
+  "orgId": "00DN0000000T6iPMAS",
+  "loginUrl": "https://CS6.salesforce.com",
+  "refreshToken": "bdd343ab1fda9a69feb7d1f1dd8d1bafa6f4b44c0f8b02f2acb484051b2cd0ff3dc300cd82b52f815226574732c1061da123e7fa1e98171e8110029ae6dcedee192c5d9a8ead24b137e82caf40f52b1eaf4e16352023a157b65e643320:12e9e13c8881ee4e64c5442f34bcb841",
+  "clientId": "PlatformCLI",
+  "devHubUsername": "future2191@rafters.com",
+  "created": "1643856559000",
+  "expirationDate": "2022-02-10",
+  "createdOrgInstance": "CS6",
+  "isDevHub": false,
+  "instanceApiVersion": "53.0",
+  "instanceApiVersionLastRetrieved": "2/3/2022, 3:49:29 PM"
+}

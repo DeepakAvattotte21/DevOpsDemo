@@ -1,0 +1,11 @@
+{
+  "username": "deepak.avattotte@booster.co.nz.test",
+  "accessToken": "526b354285acb21c11c9b0a4afdd5ff0f206b1446ad97ed657cfb8ebd412ec73b5f687c4a3cff1585751c09a5c2cdec43d8b48a4cb069234765e0cd5817380173f506d68f8c09fa98b767da24576765c2e5b9ba536d94547b385804a5bf41cfd9f1d091f81423b10430336c5f37e9a932b00db59e72e:41d9332c263720a7d484e89d037bc8f8",
+  "instanceUrl": "https://booster--test.sandbox.my.salesforce.com",
+  "orgId": "00D0p0000008dqZEAQ",
+  "loginUrl": "https://test.salesforce.com/",
+  "refreshToken": "0ae8e3a42b44dc5e9cdd3b6dbd15d8b00a4ea16394d2ce29fff525a98bd2ede167ad6d2b48cfdefd169386e09530755054812787dde49f45ed63846baa8ecf38de3420fbba88482002573e53fde0c9162c3927ba37df55f21a6b5836a8:5a487ee286c6ce7560657983a4c22f24",
+  "clientId": "PlatformCLI",
+  "instanceApiVersion": "54.0",
+  "instanceApiVersionLastRetrieved": "3/24/2022, 7:29:19 PM"
+}

@@ -1,0 +1,4 @@
+{"name":"sfdx","hostname":"Deepaks-MBP.hub","pid":1122,"level":60,"errno":-2,"code":"ENOENT","syscall":"rename","path":"/Users/deepakrajan/.sfdx/sfdx.log","dest":"/Users/deepakrajan/.sfdx/sfdx.log.0","msg":"","time":"2022-03-24T06:13:34.271Z","v":0}
+{"name":"sfdx","hostname":"Deepaks-MBP.hub","pid":1122,"level":60,"errno":-2,"code":"ENOENT","syscall":"rename","path":"/Users/deepakrajan/.sfdx/sfdx.log","dest":"/Users/deepakrajan/.sfdx/sfdx.log.0","msg":"","time":"2022-03-24T06:13:34.272Z","v":0}
+{"name":"sfdx","hostname":"Deepaks-MBP.hub","pid":1122,"level":60,"errno":-2,"code":"ENOENT","syscall":"rename","path":"/Users/deepakrajan/.sfdx/sfdx.log","dest":"/Users/deepakrajan/.sfdx/sfdx.log.0","msg":"","time":"2022-03-24T06:13:34.273Z","v":0}
+{"name":"sfdx","hostname":"Deepaks-MBP.hub","pid":3544,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2022-03-24T21:20:34.386Z","v":0}

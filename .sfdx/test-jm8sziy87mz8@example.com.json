@@ -1,0 +1,16 @@
+{
+  "username": "test-jm8sziy87mz8@example.com",
+  "accessToken": "32f91204f4dc9f75b55719d8510a4960b5889b84a2cfe589b3cbbb06c8bb1d2c089a4bb110edc830ebd90d042cd1a70246f62456fffaab86b1fddbf48c5ffe01117dab579fc382b4edb19a4978c6684a4afd4717f0d49114f60509fe39c8c56bbc2d5af27d20311a23659a0c63b2c08935f25c835c11:8fff23f647099ef70e174641368a5f3e",
+  "instanceUrl": "https://inspiration-drive-5332-dev-ed.cs114.my.salesforce.com",
+  "orgId": "00D1y0000001YsXEAU",
+  "loginUrl": "https://CS114.salesforce.com",
+  "refreshToken": "b2663e2226a12da848556ed75db010e70b4c735b0b28e4a263d6328b952c4b928e9dfe2d5cf37c661b75eb918939e68d4fe501c6585e8b61c799b52e8d4670af8d26960fbcdb026747ea90904fc70ca4fac6f79a0b53a0b1c6553c910f:bebbaceb9a3873d214988429d0f6f64e",
+  "clientId": "PlatformCLI",
+  "devHubUsername": "future2191@rafters.com",
+  "created": "1643596508000",
+  "expirationDate": "2022-03-02",
+  "createdOrgInstance": "CS114",
+  "isDevHub": false,
+  "instanceApiVersion": "53.0",
+  "instanceApiVersionLastRetrieved": "1/31/2022, 3:35:21 PM"
+}

@@ -1,0 +1,11 @@
+{
+  "username": "future2191@rafters.com",
+  "accessToken": "cce61f2a51471bb842483373b0502bf10d64319cf96be498964678431067c3e70d199c3883af14e862a71c094f3064814d9693f73846a65da34ee6b3f406bf77141527439fb56f269f7af4019aa78f7a6e9d85676c05439a03b459a481bfea0d36b0766a0a9000c39a97f89bf6577ca3005c6b5b9a00:47776bf9812508a08e4ce7e37a051b4d",
+  "instanceUrl": "https://amazing-codey-dev-ed.my.salesforce.com",
+  "orgId": "00D5j000001v6GwEAI",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "3ec2571ea6939ee118f2169555220040adba055264e84b87e22cc8747c21d0334dc6c55a3d9496e4717d9946532ddc87961d5f1500dbccfae8e88e1ac581b50128cdbae8b0930161612d8c97cfb4cbc62c8b7d155e5847a709063279e5:e28192c06f8b3ed5b0854a41d70d5094",
+  "clientId": "PlatformCLI",
+  "instanceApiVersion": "54.0",
+  "instanceApiVersionLastRetrieved": "3/24/2022, 7:45:45 PM"
+}

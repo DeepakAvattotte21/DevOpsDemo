@@ -1,0 +1,11 @@
+{
+  "username": "rafters@gmail.com",
+  "accessToken": "fbd44c080174c0d88edcd36655ba731aae33d46f2b1296605919f77f8ccf4b4fe15d8b99c4178dc8cb92a21548c623db6a73efcf5292d747f47b777ca8b47bbe7b16f6e24e5b0d0b196d4243be5ce6715924b09607c2efed0d64b9981e1407829f59b2f2778bf8854660424441a7eb647e4bf139108a:577c5f47a6f3ba48f109dbb6f2267e61",
+  "instanceUrl": "https://rafters-dev-ed.my.salesforce.com",
+  "orgId": "00D2w000009MIo4EAG",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "83b71e4c07b27444b4962fc5f6e6be8a50cea3aadf8b29f0358b930faab62b09f18168c53d1dc4fbcbce36d12b01c1002274119a2e01c7eb4e7f0ed5b3a812b2b335abc574beb825ea91f4a1c21b84ae7c1eb884c6720eee91400afe04:3e62ff819e8e1727d3780aaaa1191b33",
+  "clientId": "PlatformCLI",
+  "instanceApiVersion": "54.0",
+  "instanceApiVersionLastRetrieved": "2/15/2022, 10:47:38 AM"
+}
